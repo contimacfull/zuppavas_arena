@@ -1,7 +1,7 @@
 # Zuppavas Arena – Nutzungsbedingungen
 
 **Zuletzt aktualisiert:** 17. Oktober 2026
-**Herausgeber:** Alexandru Dan · **Kontakt:** OADsupport@gmail.com
+**Herausgeber:** Alexandru Dan · **Kontakt:** oadSupport (at) gmail.com
 
 Sprachen: [English](en.md) · [Español](es.md) · [Deutsch](de.md) · [Română](ro.md)
 
@@ -51,4 +51,4 @@ Diese Bedingungen unterliegen rumänischem Recht, ohne die zwingenden Verbrauche
 
 ## 12. Kontakt
 
-Fragen zu diesen Bedingungen: **OADsupport@gmail.com**
+Fragen zu diesen Bedingungen: **oadSupport (at) gmail.com**

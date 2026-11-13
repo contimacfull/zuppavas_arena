@@ -1,6 +1,6 @@
 # Zuppavas Arena – Legal documents
 
-Terms and Conditions and Privacy Policy for the mobile app **Zuppavas Arena** (publisher: Alexandru Dan, contact: OADsupport@gmail.com).
+Terms and Conditions and Privacy Policy for the mobile app **Zuppavas Arena** (publisher: Alexandru Dan, contact: oadSupport (at) gmail.com).
 
 | | English | Español | Deutsch | Română |
 |---|---|---|---|---|

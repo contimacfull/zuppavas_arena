@@ -1,7 +1,7 @@
 # Zuppavas Arena – Terms and Conditions
 
 **Last updated:** 17 October 2026
-**Publisher:** Alexandru Dan · **Contact:** OADsupport@gmail.com
+**Publisher:** Alexandru Dan · **Contact:** oadSupport (at) gmail.com
 
 Languages: [English](en.md) · [Español](es.md) · [Deutsch](de.md) · [Română](ro.md)
 
@@ -51,4 +51,4 @@ These terms are governed by Romanian law, without affecting the mandatory consum
 
 ## 12. Contact
 
-Questions about these terms: **OADsupport@gmail.com**
+Questions about these terms: **oadSupport (at) gmail.com**

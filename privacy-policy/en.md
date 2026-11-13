@@ -1,7 +1,7 @@
 # Zuppavas Arena – Privacy Policy
 
 **Last updated:** 17 October 2026
-**Publisher:** Alexandru Dan · **Contact:** OADsupport@gmail.com
+**Publisher:** Alexandru Dan · **Contact:** oadSupport (at) gmail.com
 
 Languages: [English](en.md) · [Español](es.md) · [Deutsch](de.md) · [Română](ro.md)
 
@@ -39,4 +39,4 @@ If the app changes in a way that affects privacy, we will update this policy and
 
 ## 8. Contact
 
-Questions about privacy: **OADsupport@gmail.com**
+Questions about privacy: **oadSupport (at) gmail.com**
